@@ -121,6 +121,3 @@ This project provided practical experience in applying Machine Learning techniqu
 **Developed by:** Kripa Shettigar  
 **Course:** B.Sc. Data Science
 
----
-
-⭐ If you find this project interesting, feel free to explore the repository!
